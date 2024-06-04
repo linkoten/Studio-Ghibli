@@ -1,6 +1,6 @@
 'use client';
 
-import { getData } from '@/app/page';
+import { getData } from '@/components/fetchData';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
 import {
